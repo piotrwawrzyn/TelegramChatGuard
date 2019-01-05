@@ -6,4 +6,4 @@ Works with [Telegram Bots API Java Library](https://github.com/rubenlagus/Telegr
 
 ## Background
 
-Back in times when I created this bot, Telegram had almost no limits for users nicknames and all it took for a spammer to do his job was just join the group and leave right after that leaving very nasty messages in chat. Now, I believe that Telegram introduced some limits but still someone may find the bot useful.
+Back in times when I created this bot, Telegram had almost no limits for users nicknames length and all it took for a spammer to do his job was just join the group and leave right after that, leaving very nasty messages in chat. Now, I believe that Telegram introduced some limits but still someone may find the bot useful.
